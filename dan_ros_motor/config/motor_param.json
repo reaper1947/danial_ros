@@ -1,0 +1,20 @@
+{
+    "odom_topic_name": "/odom",
+    "tf_topic_name": "/tf",
+    "broadcast_enable": false,
+    "can_dev": "can0",
+    "baudrate": 500000,
+    "motor_id_left": 2,
+    "motor_id_right": 1,
+    "motor_start": false,
+    "motor_disable": true,
+    "manual_mode": true,
+    "auto_mode": true,
+    "wheel_diameter": 0.2,
+    "wheel_seperate_distance": 0.49,
+    "motor_max_spd": 2000,
+    "robot_max_spd": 2000,
+    "gear_ratio": 20,
+    "pulse_per_rev": 10000,
+    "pub_tf" : true
+  }
